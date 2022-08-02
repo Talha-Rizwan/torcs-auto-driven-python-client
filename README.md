@@ -1,4 +1,4 @@
-# torcs-suto-driven-python-client
+# torcs-auto-driven-python-client
 
 We generated the data for training our model. In this phase we needed to control our
 car with the help of keyboard keys.
